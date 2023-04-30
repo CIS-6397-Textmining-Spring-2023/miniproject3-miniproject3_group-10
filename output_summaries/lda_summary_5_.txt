@@ -1,0 +1,7 @@
+Number of Topics: 5
+
+[(0, '0.011*"time" + 0.011*"new" + 0.007*"york" + 0.006*"stori" + 0.006*"like" + 0.005*"one" + 0.005*"woman" + 0.004*"art" + 0.004*"book" + 0.004*"facebook"'), (1, '0.018*"trump" + 0.011*"presid" + 0.008*"think" + 0.008*"go" + 0.007*"gigot" + 0.007*"u" + 0.006*"right" + 0.006*"would" + 0.006*"mr" + 0.006*"peopl"'), (2, '0.017*"said" + 0.014*"attack" + 0.010*"peopl" + 0.009*"kill" + 0.009*"citi" + 0.008*"islam" + 0.008*"polic" + 0.006*"one" + 0.005*"famili" + 0.005*"bomb"'), (3, '0.017*"mr" + 0.014*"said" + 0.009*"state" + 0.008*"compani" + 0.006*"new" + 0.005*"accord" + 0.005*"offici" + 0.005*"terror" + 0.005*"year" + 0.005*"u"'), (4, '0.021*"state" + 0.016*"islam" + 0.016*"said" + 0.013*"u" + 0.012*"forc" + 0.012*"syria" + 0.011*"mr" + 0.010*"iraq" + 0.010*"militari" + 0.008*"iraqi"')]
+
+Perplexity: -8.034405026365096
+
+Coherence Score: 0.4248483390429736

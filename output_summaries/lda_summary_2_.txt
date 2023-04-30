@@ -1,0 +1,7 @@
+Number of Topics: 2
+
+[(0, '0.009*"trump" + 0.006*"presid" + 0.005*"go" + 0.005*"new" + 0.005*"mr" + 0.005*"think" + 0.005*"gigot" + 0.005*"time" + 0.005*"say" + 0.004*"peopl"'), (1, '0.016*"state" + 0.016*"said" + 0.013*"islam" + 0.011*"mr" + 0.010*"u" + 0.008*"syria" + 0.007*"forc" + 0.007*"attack" + 0.006*"offici" + 0.006*"iraq"')]
+
+Perplexity: -8.09585326214495
+
+Coherence Score: 0.4329946733323995

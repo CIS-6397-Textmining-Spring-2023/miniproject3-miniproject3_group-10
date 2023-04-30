@@ -1,0 +1,7 @@
+Number of Topics: 7
+
+[(0, '0.005*"martha" + 0.004*"book" + 0.003*"seller" + 0.002*"patterson" + 0.002*"review" + 0.002*"fiction" + 0.002*"brown" + 0.002*"murder" + 0.002*"vineyard" + 0.002*"doubleday"'), (1, '0.017*"trump" + 0.014*"think" + 0.014*"gigot" + 0.013*"go" + 0.011*"presid" + 0.009*"right" + 0.008*"get" + 0.008*"say" + 0.007*"peopl" + 0.006*"want"'), (2, '0.034*"attack" + 0.027*"said" + 0.019*"islam" + 0.014*"kill" + 0.014*"polic" + 0.011*"state" + 0.010*"mr" + 0.010*"group" + 0.009*"terror" + 0.009*"terrorist"'), (3, '0.012*"compani" + 0.011*"mr" + 0.011*"said" + 0.009*"u" + 0.008*"new" + 0.007*"accord" + 0.006*"year" + 0.006*"investig" + 0.006*"report" + 0.006*"inc"'), (4, '0.027*"mr" + 0.015*"trump" + 0.013*"state" + 0.012*"u" + 0.011*"said" + 0.010*"presid" + 0.007*"countri" + 0.007*"administr" + 0.006*"offici" + 0.006*"american"'), (5, '0.008*"time" + 0.007*"one" + 0.007*"new" + 0.006*"like" + 0.006*"peopl" + 0.005*"would" + 0.004*"year" + 0.004*"york" + 0.004*"life" + 0.003*"mani"'), (6, '0.023*"state" + 0.022*"islam" + 0.018*"said" + 0.016*"forc" + 0.012*"iraq" + 0.012*"syria" + 0.011*"iraqi" + 0.011*"u" + 0.009*"syrian" + 0.009*"militari"')]
+
+Perplexity: -8.09874862868906
+
+Coherence Score: 0.5041416627811464
